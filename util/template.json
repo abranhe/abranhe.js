@@ -1,0 +1,41 @@
+{
+  "name": "abranhe",
+  "version": "1.0.0-AUGUST-2",
+  "description": "All @abranhe's node reusable modules",
+  "main": "abranhe.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abranhe/abranhe.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "abraham",
+    "carlos",
+    "carlos-abraham",
+    "abranhe",
+    "carlos-abranhe",
+    "abrahamjs",
+    "abranhejs",
+    "carlosjs",
+    "dependencies",
+    "npm-package",
+    "npm",
+    "package",
+    "all",
+    "node",
+    "nodemodules"
+  ],
+  "author": {
+    "name": "Carlos Abraham",
+    "email": "abraham@abranhe.com",
+    "web": "abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/abranhe/issues"
+  },
+  "homepage": "https://js.abranhe.com",
+  "dependencies": {}
+}

@@ -1,0 +1,49 @@
+{
+  "name": "dtfe",
+  "version": "1.0.0",
+  "description": "All @abranhe's node reusable modules",
+  "main": "abranhe.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abranhe/abranhe.js.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "abraham",
+    "carlos",
+    "carlos-abraham",
+    "abranhe",
+    "carlos-abranhe",
+    "abrahamjs",
+    "abranhejs",
+    "carlosjs",
+    "dependencies",
+    "npm-package",
+    "npm",
+    "package",
+    "all",
+    "node",
+    "nodemodules"
+  ],
+  "author": {
+    "name": "Carlos Abraham",
+    "email": "abraham@abranhe.com",
+    "web": "abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/abranhe.js/issues"
+  },
+  "homepage": "https://js.abranhe.com",
+  "dependencies": {
+    "npm-user-packages": "^3.0.0"
+  }
+}
