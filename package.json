@@ -1,5 +1,5 @@
 {
-  "name": "dtfe",
+  "name": "@abranhe/feedback",
   "version": "1.0.0",
   "description": "All @abranhe's node reusable modules",
   "main": "abranhe.js",

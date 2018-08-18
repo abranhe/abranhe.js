@@ -20,15 +20,16 @@ npmUserPackages('abranhe').then(data => {
   <br>
   <br>
   <br>
-  <b>abrnhe</b>: All <a href="https://github.com/abranhe">
+  <b>abranhe</b>: All <a href="https://github.com/abranhe">
   @abranhe</a>'s node reusable modules
 </p>
 
 <p align="left">
 	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
+	<a href="https://github.com/abranhe/abranhe/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abranhe/abranhe.svg" /></a>
 	<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>
 	<a href="https://www.patreon.com/abranhe"><img src="https://cdn.abraham.gq/badges/patreon.svg" /></a>
-	<a href="https://github.com/abranhe/abranhe/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abranhe/abranhe.svg" /></a>
+	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg" /></a>
 </p>
 
 > I update it each month
@@ -47,7 +48,7 @@ $ npm install abranhe
   for (var pkg = 0; pkg < data.length; pkg++){
     // console.log(data[pkg].name)
     packageTemplate.dependencies[`${data[pkg].name}`] = `^${data[pkg].version}`;
-    README.push(`[${data[pkg].name}@${data[pkg].version}](${npmURL+data[pkg].name})  `);
+    README.push(`${pkg + 1} - [${data[pkg].name}@${data[pkg].version}](${npmURL+data[pkg].name}): ${data[pkg].description}  `);
   }
 
   README.push(`
