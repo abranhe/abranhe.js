@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abranhe/abranhe.js.git"
+    "url": "git+https://github.com/abranhe/abranhe.git"
   },
   "files": [
     "index.js"
@@ -40,9 +40,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abranhe/abranhe.js/issues"
+    "url": "https://github.com/abranhe/abranhe/issues"
   },
-  "homepage": "https://js.abranhe.com",
+  "homepage": "https://projects.abranhe.com/abranhe",
   "dependencies": {
     "npm-user-packages": "^3.0.0"
   }

@@ -1,6 +1,6 @@
 {
   "name": "abranhe",
-  "version": "1.0.2018-SEPTEMBER-10",
+  "version": "2018.10.29",
   "description": "All @abranhe's node reusable modules",
   "main": "abranhe.js",
   "repository": {
@@ -36,6 +36,6 @@
   "bugs": {
     "url": "https://github.com/abranhe/abranhe/issues"
   },
-  "homepage": "https://js.abranhe.com",
+  "homepage": "https://projects.abranhe.com/abranhe",
   "dependencies": {}
 }

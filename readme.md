@@ -29,7 +29,7 @@ $ npm install abranhe
 1 - [@abranhe/feedback@1.1.1](https://npmjs.com/package/@abranhe/feedback): Y'all can give me a feedback @abranhe  
 2 - [19cah@0.0.1](https://npmjs.com/package/19cah): know me a little by using your terminal 🐝  
 3 - [abraham@2.0.5](https://npmjs.com/package/abraham): know me a little by using a cli 🎸  
-4 - [abranhe@1.0.2018-AUGUST-18](https://npmjs.com/package/abranhe): All @abranhe's node reusable modules  
+4 - [abranhe@1.0.2018-SEPTEMBER-10](https://npmjs.com/package/abranhe): All @abranhe's node reusable modules  
 5 - [algorithms-implementation@0.0.0-SAVE](https://npmjs.com/package/algorithms-implementation): Data Structures and Algorithms made easier  
 6 - [all-words@1.0.1](https://npmjs.com/package/all-words): Generate all words up to four letters super fast  
 7 - [atv@1.0.0](https://npmjs.com/package/atv): Saving an space  
@@ -75,13 +75,14 @@ $ npm install abranhe
 47 - [realmadrid@0.0.0-beta](https://npmjs.com/package/realmadrid): Saving an space  
 48 - [s-to-o@1.0.0](https://npmjs.com/package/s-to-o): STRING to OBJECT (s-to-o)  
 49 - [sbl@1.0.0](https://npmjs.com/package/sbl): Saving an space  
-50 - [str-to-arr@1.0.1](https://npmjs.com/package/str-to-arr): Add words from a string to an array  
-51 - [tryhtml@1.0.2](https://npmjs.com/package/tryhtml): Try HTML's package  
-52 - [txd@1.0.0](https://npmjs.com/package/txd): Saving an space  
-53 - [unicornly@0.0.3](https://npmjs.com/package/unicornly): 🦄  Magic really exist  
-54 - [vyy@1.0.0](https://npmjs.com/package/vyy): Saving an space  
-55 - [wfy@0.0.1](https://npmjs.com/package/wfy): Saving an space  
-56 - [wmw@1.0.0](https://npmjs.com/package/wmw): Saving an space  
+50 - [shellhacks@2018.9.16-2](https://npmjs.com/package/shellhacks): The ShellHacks CLI 🐚  
+51 - [str-to-arr@1.0.1](https://npmjs.com/package/str-to-arr): Add words from a string to an array  
+52 - [tryhtml@1.0.2](https://npmjs.com/package/tryhtml): Try HTML's package  
+53 - [txd@1.0.0](https://npmjs.com/package/txd): Saving an space  
+54 - [unicornly@0.0.3](https://npmjs.com/package/unicornly): 🦄  Magic really exist  
+55 - [vyy@1.0.0](https://npmjs.com/package/vyy): Saving an space  
+56 - [wfy@0.0.1](https://npmjs.com/package/wfy): Saving an space  
+57 - [wmw@1.0.0](https://npmjs.com/package/wmw): Saving an space  
 
 # Team
 
